@@ -813,7 +813,7 @@
             },
             {
                 id: 7,
-                title: 'Travel Backpack',
+                title: 'Backpack',
                 price: 79,
                 oldPrice: 99,
                 rating: 4,
